@@ -5,7 +5,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-	
+	<!-- konflik -->
 	<title>Indonesia Cyber Security Seminar and Competition (ICS2C 2018)</title>
 	
 	<meta charset="utf-8">
