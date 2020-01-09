@@ -76,7 +76,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-		  <a href="index.html"><img src="<?= $baseurl ?>/assets/web/img/logo-h-53.png" alt="logo"></a>
+		  <a href="index.html"><img src="<?= $baseurl ?>/assets/web/img/logo-sae.png" alt="logo"></a>
 		</div>
 
 		<div class="collapse navbar-collapse" id="nav">
@@ -1182,7 +1182,7 @@
 	</section>
 	
 	<!-- google map -->
-	<div style="width:100%; overflow:hidden"><img src="<?= $baseurl ?>/assets/web/img/google-maps-alamat-universitas-telkom.jpg" height="219"></div>
+	<div style="width:100%; overflow:hidden"><img src="<?= $baseurl ?>/assets/web/img/map.png" height="219"></div>
 	
 	<!-- FOOTER -->        
 	<footer id="footer">
