@@ -253,18 +253,18 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 				<div class="col-lg-12">
 					<h2 class="uppercase"><center>BTP Seminar And Expo (BTPSAE 2020)</center></h2>
 					<h3 class="uppercase"><center>Topics : Towards Sustainable Science Techno Park</center></h3>
-					<p class="lead">Seminar dan Expo BTP SAE 2020 menampilkan 5 Pembicara Hebat pada bidang Akademik, Bisnis, Komunitas, Pemerintah dan Media</p>
+					<p class="lead">Seminar dan Expo BTP SAE 2020 menampilkan 6 Pembicara Hebat pada bidang Akademik, Bisnis, Komunitas, Pemerintah dan Media</p>
 				</div> 
 				
 				<ul id="list-speaker" class="list-unstyled"> 
 					
 					<!-- SPEAKER 1 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/mochamad-ashari.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/adiwijaya1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/adiwijaya1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
@@ -276,12 +276,12 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 					</li>
 					
 					<!-- SPEAKER 2 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/bssn-mayjen-djokosetiadi.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/stephanus1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/stephanus1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
@@ -292,56 +292,74 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 						</div>
 					</li>
 					
-					<!-- SPEAKER 3 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<!-- SPEAKER 6 -->	
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/agus-barnas.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/telkom1.jpg" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/telkom1.jpg" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>No Name</h4>
+								<h4>Telkom Group</h4>
+								<p class="company">Telkom Group</p>
+							</div>   
+						</div>
+					</li>
+					<!-- SPEAKER 3 -->	
+					<li class="col-lg-2 col-md-2 col-sm-4">
+						<div class="speaker">
+							<figure class="effect-ming">
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fast1.png" alt=""/>
+								<figcaption>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fast1.png" alt=""></a></span>
+								</figcaption>			
+							</figure>
+							
+							<div class="caption text-center">
+								<h4>Nugroho Gito Prasodjo</h4>
 								<p class="company">Wakil Presiden dari Forum Alumni Universitas Telkom(FAST)</p>
 							</div>   
 						</div>
 					</li>
 					
 					<!-- SPEAKER 4 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/ahmad-m-ramli.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/ristek1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/ristek1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Bambang Brodjonegoro</h4>
+								<h4>Kementrian Riset & Teknologi</h4>
 								<p class="company">Kementrian Riset & Teknologi</p>
 							</div>   
 						</div>
 					</li>
 					
 					<!-- SPEAKER 5 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/foto-profil-pak-edi-witjara.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/noavatar1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/noavatar1.png.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>No Name</h4>
+								<h4>Kumparan/CNN</h4>
 								<p class="company">Kumparan/CNN</p>
 							</div>   
 						</div>
 					</li>
+
+										
 				
 				</ul>
 				
