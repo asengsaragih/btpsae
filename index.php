@@ -555,15 +555,15 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 					<div class="row">
 						
 						<div class="col-lg-8 col-md-8 col-sm-8">
-							<h2 class="uppercase">venue</h2>
-							<p class="lead">CS2C bertempat di Telkom University<br />ICT Based Campus, Bandung Tecknoplex Telkom University</p>
+							<h2 class="uppercase">lokasi</h2>
+							<p class="lead">BTPSAE bertempat di Telkom University<br />Kampus berbasis ICT, Bandung Technoplex Telkom University</p>
 							<h4>Telkom University</h4>
 							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-telkom-university-grey.png" alt="hotel">
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-map-2"></i>
-							<h4 class="uppercase">address</h4>
+							<h4 class="uppercase">alamat</h4>
 							<p>Jl. Telekomunikasi Terusan Buah Batu, 40257 , Bandung , Indonesia<br />+62 (22) 7564 108<br />1.5 km from Buahbatu Tol Gateway</p>
 							
 							<a class="button button-xsmall button-line-light" href="https://www.telkomuniversity.ac.id">more information</a>
