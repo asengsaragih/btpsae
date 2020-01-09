@@ -106,7 +106,7 @@
 			
 					<!-- LAYER NR. 1 -->
 					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
-						data-x="383"
+						data-x="483"
 						data-y="center" data-voffset="-70"
 						data-width="['auto']"
 						data-height="['auto']"
@@ -119,12 +119,56 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Indonesia Cyber Security<br>Seminar and Competition
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Bandung Techno Park <br> Seminar & Expo 2020
+			
+					</div>
+
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="40"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Towards Sustainable Science Techno Park
+					</div>	
+			
+				<!-- SLIDE 2 -->
+				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
+					<!-- MAIN IMAGE -->
+					<img src="<?= $baseurl ?>/assets/web/img/slider/slide1ori.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<!-- LAYERS -->
+			
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="-60"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="800"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Seminar Teknologi
+			
 					</div>
 			
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
-						data-x="383"
+						data-x="483"
 						data-y="center" data-voffset="10"
 						data-width="['auto']"
 						data-height="['auto']"
@@ -137,18 +181,19 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">3 Maret 2018, Universitas Telkom Bandung.
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Focusing on The Mutual Collaboration 
 					</div>				
 				</li>
-				<!-- SLIDE 2 -->
-				<li data-transition="slidevertical" data-slotamount="2" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_2.jpg"  data-saveperformance="off"  data-title="Slide">
+
+				<!-- SLIDE 3 -->
+				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
 					<!-- MAIN IMAGE -->
-					<img src="<?= $baseurl ?>/assets/web/img/slider/slide2.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="<?= $baseurl ?>/assets/web/img/slider/slide3.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
 			
 					<!-- LAYER NR. 1 -->
 					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
-						data-x="center" data-hoffset="250"
+						data-x="483"
 						data-y="center" data-voffset="-70"
 						data-width="['auto']"
 						data-height="['auto']"
@@ -161,13 +206,14 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">ICS2S Seminar
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Expo Inovasi Produk
+			
 					</div>
 			
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
-						data-x="center" data-hoffset="205"
-						data-y="center" data-voffset="-10"
+						data-x="483"
+						data-y="center" data-voffset="10"
 						data-width="['auto']"
 						data-height="['auto']"
 						data-speed="600"
@@ -179,10 +225,9 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">3 Maret 2018, Universitas Telkom Bandung.
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Product and services of Bandung Techno Park <br>& the tenants in showcase
 					</div>				
 				</li>
-				
 	
 			</ul>		
 			<div class="tp-bannertimer"></div>	
@@ -195,8 +240,8 @@
 			<div class="row">
 			
 				<div id="left" class="left col-lg-9 col-md-8 text-right">
-					<h2>Join the Seminar and Competition</h2>
-					<p>Demonstrate Your Hacking Expertise</p>
+					<h2>Join the BTP Seminar and Expo</h2>
+					<p>Toward Sustainable Science Techno Park</p>
 				</div>
 				
 				<div id="right" class="col-lg-3 col-md-4 text-left">
@@ -213,7 +258,7 @@
 			<div class="row">
 				
 				<div class="col-lg-12 text-center">
-					<h1>Indonesia Cyber Security Seminar and Competition (ICS2C 2018)</h1>
+					<h1>Bandung Techno Park Seminar & Expo (BTP SaE 2020)</h1>
 					<p class="lead"><strong>Enhancing National Digital Security Readiness in Disruptive Era</strong><br />
 Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan yang diselenggarakan oleh Telkom University</p>
 				</div>
