@@ -251,8 +251,9 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 			<div class="row">
 				
 				<div class="col-lg-12">
-					<h2 class="uppercase">Seminar ICS2C 2018</h2>
-					<p class="lead">Seminar ICS2C 2018 menampilkan 5 Pembicara Hebat pada bidang Cyber Security dari Universitas Telkom, PT. Telkom dan 3 Kementrian Republik Indonesia</p>
+					<h2 class="uppercase"><center>BTP Seminar And Expo (BTPSAE 2020)</center></h2>
+					<h3 class="uppercase"><center>Topics : Towards Sustainable Science Techno Park</center></h3>
+					<p class="lead">Seminar dan Expo BTP SAE 2020 menampilkan 5 Pembicara Hebat pada bidang Akademik, Bisnis, Komunitas, Pemerintah dan Media</p>
 				</div> 
 				
 				<ul id="list-speaker" class="list-unstyled"> 
@@ -268,7 +269,7 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Prof. Ir. Mochamad Ashari, Ph.D</h4>
+								<h4>Prof. Adiwijaya</h4>
 								<p class="company">Rektor Universitas Telkom</p>
 							</div>   
 						</div>
@@ -285,8 +286,8 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Mayjen Djoko Setiadi</h4>
-								<p class="company">Kepala Badan Siber dan Sandi Negara (BSSN)</p>
+								<h4>Stephanus Widjaja</h4>
+								<p class="company">Pendiri Asosiasi Bisnis Indonesia Singapura (BisaKita.com) & Telkom Indonesia</p>
 							</div>   
 						</div>
 					</li>
@@ -302,8 +303,8 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Agus R. Barnas</h4>
-								<p class="company">Deputi VII Bidang Koordinator Kominfotur</p>
+								<h4>No Name</h4>
+								<p class="company">Wakil Presiden dari Forum Alumni Universitas Telkom(FAST)</p>
 							</div>   
 						</div>
 					</li>
@@ -319,8 +320,8 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Prof. Dr. H. Ahmad M. Ramli,SH,MH,FCB.Arb</h4>
-								<p class="company">Direktur Jenderal Pos dan Penyelenggaraan Informatika (PPI) Kemkominfo RI</p>
+								<h4>Bambang Brodjonegoro</h4>
+								<p class="company">Kementrian Riset & Teknologi</p>
 							</div>   
 						</div>
 					</li>
@@ -336,8 +337,8 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Edi Witjara</h4>
-								<p class="company">SVP Financial Planning & Analysis PT. Telkom</p>
+								<h4>No Name</h4>
+								<p class="company">Kumparan/CNN</p>
 							</div>   
 						</div>
 					</li>
