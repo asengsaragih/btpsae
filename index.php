@@ -390,14 +390,14 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 			
 				<div class="col-lg-12">
 				
-					<h2 class="uppercase">IMPORTANT DATES</h2>
+					<h2 class="uppercase">SCHEDULE</h2>
 					<p class="lead">...</p>
 					
 					<!-- SCHEDULE TAB -->
 					<ul id="myTab" class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Important Dates</a></li>
-						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">Competition</a></li>
-						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">Seminar</a></li>
+						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Expo</a></li>
+						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">Seminar</a></li>
+						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">FGD Industries</a></li>
 					</ul>
 					
 					<!-- CONTENT -->    
@@ -413,10 +413,10 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">24 Januari 2018</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.00 - 17.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">First Announce</a>
+													<a href="javascript:;">Expo</a>
 												</h4>
 											</div>
 										</div>										
@@ -424,73 +424,7 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 									
 								</div>
 								
-								<!-- PROGRAM 2-->
-								<div class="panel panel-default">
 								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12 Februari 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Elimination Round</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								<!-- PROGRAM 3-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">3 Maret 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Grand Final Competition</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								<!-- PROGRAM 4-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">3 Maret 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Awarding</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								<!-- PROGRAM 5-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">3 Maret 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Cyber Security Seminar</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
 							
 							</div>
 						</div>
@@ -504,10 +438,282 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">24 Januari 2018</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.00 - 08.30</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">First Announce</a>
+													<a href="javascript:;">Expo Tour</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 2-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.30 - 08.50</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Coffee Morning</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 3-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.50 - 09.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Registration</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 4-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.00 - 09.05</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Opening MC</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 5-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.05 - 09.15</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Welcoming from Director of Bandung Techno Park</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 6-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.15 - 09.45</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Keynote Speaker</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 7-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.45 - 10.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">MoU signing & Photo session</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 8-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.00 - 10.15</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Academic : Telkom University Rector <br>Topic : "<i>The Role of Academia in Supporting the Growth of Economic through Innovation</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 9-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.15 - 10.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Bussiness : Telkom Group <br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 10-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.30 - 10.45</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Bussiness : Mr. Stephanus Widjaja, Founder of Business Indonesia Singapore Association <br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 11-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.45 - 11.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Community : Mr. Nugroho Gito Prasodjo (VP FAST & CTO Accenture)<br>Topic : "<i>The Opportunities for Collaboration between Comumunities & STP</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 12-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.00 - 11.15</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Government : Ministry of Research & Technology<br>Topic : "<i>The Role of Government in Supporting the Growth of STP</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 13-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.15 - 11.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Media : Kumparan/CNN *<br>Topic : "<i>The Role of Media in Supporting the Growth of Economic through Innovation</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 14-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.30 - 11.45</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Open discussion & Closing by moderator</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 15-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.45 - 11.55</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Photo session</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 16-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.55 - 12.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Closing MC</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 17-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.00 - 13.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Lunch & Break</a>
 												</h4>
 											</div>
 										</div>										
@@ -526,10 +732,78 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">24 Januari 2018</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">13.00 - 14.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">First Announce</a>
+													<a href="javascript:;">Expo Tour</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 2-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.00 - 14.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">BTP Product & Services</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 3-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.30 - 15.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Industry needs</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 4-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">15.30 - 16.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Discussion</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 5-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">16.30 - 17.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Pitching (tentative)</a>
 												</h4>
 											</div>
 										</div>										
