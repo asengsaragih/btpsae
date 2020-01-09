@@ -6,7 +6,7 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
 
-	<title>Indonesia Cyber Security Seminar and Competition (ICS2C 2018)</title>
+	<title>BTP Seminar And Expo (BTPSAE 2019)</title>
 	
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
