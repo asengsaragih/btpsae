@@ -5,7 +5,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-
+	<!-- tes commit -->
 	<title>Indonesia Cyber Security Seminar and Competition (ICS2C 2018)</title>
 	
 	<meta charset="utf-8">
@@ -55,8 +55,9 @@
 	</style>
 
 </head>
-<!-- Create Body -->
+
 <body>
+	
 	<!-- PRELOADING --> 
 	<div id="preload">
 		<div class="preload">
@@ -1187,8 +1188,8 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 			<div class="row">
 				
 				<div class="col-lg-3 col-md-3 col-sm-6">
-					<h4 class="uppercase">ICS2C 2018</h4>
-					<p class="small">Indonesia Cyber Security Seminar and Competition</p>
+					<h4 class="uppercase">BTPSAE 2020</h4>
+					<p class="small">Bandung Techno Park Seminar And Expo</p>
 					<ul class="list-unstyled list-inline uppercase">
 						<li><a href="#"><i class="fa fa-lg fa-facebook"></i></a></li>
 						<li><a href="#"><i class="fa fa-lg fa-twitter"></i></a></li>
@@ -1202,17 +1203,14 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 					<!--<p class="small">Etiam nec porta risus. Aliquam id odio orci. Duis accumsan feugiat feugiat.</p>-->
 					
 					<dl class="faqs">
-						<dt>Apakah kompetisi CTF berbayar?</dt>
-						<dd class="small">Kompetisi ini gratis.</dd>
+						<dt>Apakah seminar BTPSAE berbayar?</dt>
+						<dd class="small">Seminar ini gratis.</dd>
 					
-						<dt>Seperti apa kompetisi CTF?</dt>
-						<dd class="small">Kompetisi ini menguji kemampuan dalam hal keamanan informasi dan jaringan. Peserta diharapkan dapat mencari “<i>flag</i>” yang dapat berupa <i>string</i> maupun kalimat dengan format tertentu dengan mencari celah keamanannya.</dd>
+						<dt>Apa itu seminar BTPSAE?</dt>
+						<dd class="small">Seminar ini menjelaskan peran akademisi dalam mendukung pertumbuhan ekonomi melalui inovasi. Diharapkan yang hadir dapat memahami pertumbuhan ekonomi melalui inovasi.</dd>
 					
-						<dt>Apakah ada perbedaan pada babak penyisihan dan final?</dt>
-						<dd class="small">Format  yang digunakan pada babak penyisihan menggunakan format <i>Jeopardy</i> sedangkan untuk babak Final menggunakan format <i>hybrid</i> yaitu <i>Attack and Defense</i> dan <i>Jeopardy</i>. Lalu, babak penyisihan dilakukan secara <i>online</i> pada <i>website</i> sedangkan babak final dilakukan <i>on-site</i> di Universitas Telkom, Bandung, Indonesia.</dd>
-						
-						<dt>Berapa tim yang dapat lolos ke babak final?</dt>
-						<dd class="small">15 tim dengan skor tertinggi dengan ketentuan mengumpulkan <i>write-up</i> yang valid (tidak ada indikasi kecurangan dan sesuai dengan soal) dapat lolos ke babak final.</dd>
+						<dt>Apakah ada perbedaan dari seminar lainnya ?</dt>
+						<dd class="small">Perbedaan dari seminar yang lain adalah seminar ini dapat memberikan feedback pada pertumbuhan ekonomi dari peran akademisi.</dd>
 					</dl>
 				</div>
 				
@@ -1240,7 +1238,7 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4">
-					<span>Copyright 2018 CS2C.  All rights reserved</span>
+					<span>Copyright 2020 BTPSAE. All rights reserved</span>
 				</div>
 				<div class="col-lg-8">
 					<ul class="list-unstyled list-inline pull-right uppercase">
