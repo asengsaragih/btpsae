@@ -194,8 +194,8 @@
 			<div class="row">
 			
 				<div id="left" class="left col-lg-9 col-md-8 text-right">
-					<h2>Join the Seminar and Competition</h2>
-					<p>Demonstrate Your Hacking Expertise</p>
+					<h2>Join the Seminar and Expo</h2>
+					<p>blablabla</p>
 				</div>
 				
 				<div id="right" class="col-lg-3 col-md-4 text-left">
@@ -212,9 +212,9 @@
 			<div class="row">
 				
 				<div class="col-lg-12 text-center">
-					<h1>Indonesia Cyber Security Seminar and Competition (ICS2C 2018)</h1>
-					<p class="lead"><strong>Enhancing National Digital Security Readiness in Disruptive Era</strong><br />
-Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan yang diselenggarakan oleh Telkom University</p>
+					<h1>BTP Seminar And Expo (BTPSAE 2020)</h1>
+					<p class="lead"><strong>Towards Sustainable Science Techno Park</strong><br />
+					BTP Seminar And Expo (BTPSAE 2020) adalah Kompetisi tahunan yang diselenggarakan oleh Bandung Techno Park</p>
 				</div>
 				
 				<div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
@@ -223,19 +223,19 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-refresh-2"></i>
 							<h4>Seminar</h4>
-							<p>Seminar ICS2C 2018 menampilkan 4 Pembicara dari re</p>
+							<p>Seminar BTPSAE 2020 akan berfokus pada kolaborasi Pentahelix dengan Science Techno Park.</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-micro"></i>
-							<h4>Cyber Security Competition</h4>
-							<p>Cyber Competition ICS2C merupakan kompetisi keamanan jaringan dan informasi berskala nasional yang mengangkat konsep Jeopardy CTF</p>
+							<h4>Expo</h4>
+							<p>Expo BTPSAE 2020 akan menunjukan semuah produk dan layanan dari Bandung Techno Park dan penyewa sebuah karya.</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-headphones"></i>
-							<h4>Awarding</h4>
-							<p>Pemenang dalam Cyber Competition kemudian akan masuk pada babak final yaitu hybrid Jeopardy dan Attack-Defense</p>
+							<h4>FGD Industry</h4>
+							<p>Bandung Techno Park sebagai pusat solusi utama yang akan menghadirkan produk dan layanan serta menyesuaikan dengan kebutuhan industri yang dihadapi Industry 4.0 dan Global Challenges.</p>
 						</div>
 													
 					</div>
