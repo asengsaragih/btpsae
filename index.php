@@ -906,7 +906,7 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 	</section>
 	
 	<!-- google map -->
-	<div style="width:100%; overflow:hidden"><img src="<?= $baseurl ?>/assets/web/img/google-maps-alamat-universitas-telkom.jpg" height="219"></div>
+	<div style="width:100%; overflow:hidden"><img src="<?= $baseurl ?>/assets/web/img/map.jpg" height="219"></div>
 	
 	<!-- FOOTER -->        
 	<footer id="footer">
