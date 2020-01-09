@@ -55,8 +55,9 @@
 	</style>
 
 </head>
-<!-- Create Body -->
+
 <body>
+	
 	<!-- PRELOADING --> 
 	<div id="preload">
 		<div class="preload">
@@ -105,7 +106,7 @@
 			
 					<!-- LAYER NR. 1 -->
 					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
-						data-x="383"
+						data-x="483"
 						data-y="center" data-voffset="-70"
 						data-width="['auto']"
 						data-height="['auto']"
@@ -118,12 +119,56 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Indonesia Cyber Security<br>Seminar and Competition
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Bandung Techno Park <br> Seminar & Expo 2020
+			
+					</div>
+
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="40"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Towards Sustainable Science Techno Park
+					</div>	
+			
+				<!-- SLIDE 2 -->
+				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
+					<!-- MAIN IMAGE -->
+					<img src="<?= $baseurl ?>/assets/web/img/slider/slide1ori.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<!-- LAYERS -->
+			
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="-60"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="800"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Seminar Teknologi
+			
 					</div>
 			
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
-						data-x="383"
+						data-x="483"
 						data-y="center" data-voffset="10"
 						data-width="['auto']"
 						data-height="['auto']"
@@ -136,18 +181,19 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">3 Maret 2018, Universitas Telkom Bandung.
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Focusing on The Mutual Collaboration 
 					</div>				
 				</li>
-				<!-- SLIDE 2 -->
-				<li data-transition="slidevertical" data-slotamount="2" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_2.jpg"  data-saveperformance="off"  data-title="Slide">
+
+				<!-- SLIDE 3 -->
+				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
 					<!-- MAIN IMAGE -->
-					<img src="<?= $baseurl ?>/assets/web/img/slider/slide2.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<img src="<?= $baseurl ?>/assets/web/img/slider/slide3.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
 			
 					<!-- LAYER NR. 1 -->
 					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
-						data-x="center" data-hoffset="250"
+						data-x="483"
 						data-y="center" data-voffset="-70"
 						data-width="['auto']"
 						data-height="['auto']"
@@ -160,13 +206,14 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">ICS2S Seminar
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Expo Inovasi Produk
+			
 					</div>
 			
 					<!-- LAYER NR. 2 -->
 					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
-						data-x="center" data-hoffset="205"
-						data-y="center" data-voffset="-10"
+						data-x="483"
+						data-y="center" data-voffset="10"
 						data-width="['auto']"
 						data-height="['auto']"
 						data-speed="600"
@@ -178,10 +225,9 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">3 Maret 2018, Universitas Telkom Bandung.
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Product and services of Bandung Techno Park <br>& the tenants in showcase
 					</div>				
 				</li>
-				
 	
 			</ul>		
 			<div class="tp-bannertimer"></div>	
@@ -194,8 +240,9 @@
 			<div class="row">
 			
 				<div id="left" class="left col-lg-9 col-md-8 text-right">
-					<h2>Join the Seminar and Expo</h2>
-					<p>blablabla</p>
+
+					<h2>Join the BTP Seminar and Expo</h2>
+					<p>Toward Sustainable Science Techno Park</p>
 				</div>
 				
 				<div id="right" class="col-lg-3 col-md-4 text-left">
@@ -389,14 +436,14 @@
 			
 				<div class="col-lg-12">
 				
-					<h2 class="uppercase">IMPORTANT DATES</h2>
+					<h2 class="uppercase">SCHEDULE</h2>
 					<p class="lead">...</p>
 					
 					<!-- SCHEDULE TAB -->
 					<ul id="myTab" class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Important Dates</a></li>
-						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">Competition</a></li>
-						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">Seminar</a></li>
+						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Expo</a></li>
+						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">Seminar</a></li>
+						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">FGD Industries</a></li>
 					</ul>
 					
 					<!-- CONTENT -->    
@@ -412,10 +459,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">24 Januari 2018</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.00 - 17.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">First Announce</a>
+													<a href="javascript:;">Expo</a>
 												</h4>
 											</div>
 										</div>										
@@ -423,73 +470,7 @@
 									
 								</div>
 								
-								<!-- PROGRAM 2-->
-								<div class="panel panel-default">
 								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12 Februari 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Elimination Round</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								<!-- PROGRAM 3-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">3 Maret 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Grand Final Competition</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								<!-- PROGRAM 4-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">3 Maret 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Awarding</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								<!-- PROGRAM 5-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">3 Maret 2018</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Cyber Security Seminar</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
 							
 							</div>
 						</div>
@@ -503,10 +484,282 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">24 Januari 2018</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.00 - 08.30</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">First Announce</a>
+													<a href="javascript:;">Expo Tour</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 2-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.30 - 08.50</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Coffee Morning</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 3-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.50 - 09.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Registration</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 4-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.00 - 09.05</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Opening MC</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 5-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.05 - 09.15</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Welcoming from Director of Bandung Techno Park</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 6-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.15 - 09.45</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Keynote Speaker</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 7-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.45 - 10.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">MoU signing & Photo session</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 8-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.00 - 10.15</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Academic : Telkom University Rector <br>Topic : "<i>The Role of Academia in Supporting the Growth of Economic through Innovation</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 9-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.15 - 10.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Bussiness : Telkom Group <br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 10-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.30 - 10.45</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Bussiness : Mr. Stephanus Widjaja, Founder of Business Indonesia Singapore Association <br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 11-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.45 - 11.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Community : Mr. Nugroho Gito Prasodjo (VP FAST & CTO Accenture)<br>Topic : "<i>The Opportunities for Collaboration between Comumunities & STP</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 12-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.00 - 11.15</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Government : Ministry of Research & Technology<br>Topic : "<i>The Role of Government in Supporting the Growth of STP</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 13-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.15 - 11.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Media : Kumparan/CNN *<br>Topic : "<i>The Role of Media in Supporting the Growth of Economic through Innovation</i>"</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 14-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.30 - 11.45</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Open discussion & Closing by moderator</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 15-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.45 - 11.55</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Photo session</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 16-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.55 - 12.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Closing MC</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 17-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.00 - 13.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Lunch & Break</a>
 												</h4>
 											</div>
 										</div>										
@@ -525,10 +778,78 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">24 Januari 2018</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">13.00 - 14.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">First Announce</a>
+													<a href="javascript:;">Expo Tour</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 2-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.00 - 14.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">BTP Product & Services</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 3-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.30 - 15.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Industry needs</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 4-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">15.30 - 16.30</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Discussion</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 5-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">16.30 - 17.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Pitching (tentative)</a>
 												</h4>
 											</div>
 										</div>										
@@ -868,8 +1189,8 @@
 			<div class="row">
 				
 				<div class="col-lg-3 col-md-3 col-sm-6">
-					<h4 class="uppercase">ICS2C 2018</h4>
-					<p class="small">Indonesia Cyber Security Seminar and Competition</p>
+					<h4 class="uppercase">BTPSAE 2020</h4>
+					<p class="small">Bandung Techno Park Seminar And Expo</p>
 					<ul class="list-unstyled list-inline uppercase">
 						<li><a href="#"><i class="fa fa-lg fa-facebook"></i></a></li>
 						<li><a href="#"><i class="fa fa-lg fa-twitter"></i></a></li>
@@ -883,17 +1204,14 @@
 					<!--<p class="small">Etiam nec porta risus. Aliquam id odio orci. Duis accumsan feugiat feugiat.</p>-->
 					
 					<dl class="faqs">
-						<dt>Apakah kompetisi CTF berbayar?</dt>
-						<dd class="small">Kompetisi ini gratis.</dd>
+						<dt>Apakah seminar BTPSAE berbayar?</dt>
+						<dd class="small">Seminar ini gratis.</dd>
 					
-						<dt>Seperti apa kompetisi CTF?</dt>
-						<dd class="small">Kompetisi ini menguji kemampuan dalam hal keamanan informasi dan jaringan. Peserta diharapkan dapat mencari “<i>flag</i>” yang dapat berupa <i>string</i> maupun kalimat dengan format tertentu dengan mencari celah keamanannya.</dd>
+						<dt>Apa itu seminar BTPSAE?</dt>
+						<dd class="small">Seminar ini menjelaskan peran akademisi dalam mendukung pertumbuhan ekonomi melalui inovasi. Diharapkan yang hadir dapat memahami pertumbuhan ekonomi melalui inovasi.</dd>
 					
-						<dt>Apakah ada perbedaan pada babak penyisihan dan final?</dt>
-						<dd class="small">Format  yang digunakan pada babak penyisihan menggunakan format <i>Jeopardy</i> sedangkan untuk babak Final menggunakan format <i>hybrid</i> yaitu <i>Attack and Defense</i> dan <i>Jeopardy</i>. Lalu, babak penyisihan dilakukan secara <i>online</i> pada <i>website</i> sedangkan babak final dilakukan <i>on-site</i> di Universitas Telkom, Bandung, Indonesia.</dd>
-						
-						<dt>Berapa tim yang dapat lolos ke babak final?</dt>
-						<dd class="small">15 tim dengan skor tertinggi dengan ketentuan mengumpulkan <i>write-up</i> yang valid (tidak ada indikasi kecurangan dan sesuai dengan soal) dapat lolos ke babak final.</dd>
+						<dt>Apakah ada perbedaan dari seminar lainnya ?</dt>
+						<dd class="small">Perbedaan dari seminar yang lain adalah seminar ini dapat memberikan feedback pada pertumbuhan ekonomi dari peran akademisi.</dd>
 					</dl>
 				</div>
 				
@@ -921,7 +1239,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4">
-					<span>Copyright 2018 CS2C.  All rights reserved</span>
+					<span>Copyright 2020 BTPSAE. All rights reserved</span>
 				</div>
 				<div class="col-lg-8">
 					<ul class="list-unstyled list-inline pull-right uppercase">
