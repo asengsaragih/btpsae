@@ -234,7 +234,7 @@
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-rocket"></i>
-							<h4>FGD Industry</h4>
+							<h4>FGD Industries</h4>
 							<p>Bandung Techno Park sebagai pusat solusi utama yang akan menghadirkan produk dan layanan serta menyesuaikan dengan kebutuhan industri yang dihadapi Industry 4.0 dan Global Challenges.</p>
 						</div>
 													
