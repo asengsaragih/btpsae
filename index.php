@@ -5,8 +5,8 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-	<!-- tes commit -->
-	<title>Indonesia Cyber Security Seminar and Competition (ICS2C 2018)</title>
+
+	<title>BTP Seminar And Expo (BTPSAE 2019)</title>
 	
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -240,6 +240,7 @@
 			<div class="row">
 			
 				<div id="left" class="left col-lg-9 col-md-8 text-right">
+
 					<h2>Join the BTP Seminar and Expo</h2>
 					<p>Toward Sustainable Science Techno Park</p>
 				</div>
@@ -258,9 +259,9 @@
 			<div class="row">
 				
 				<div class="col-lg-12 text-center">
-					<h1>Bandung Techno Park Seminar & Expo (BTP SaE 2020)</h1>
-					<p class="lead"><strong>Enhancing National Digital Security Readiness in Disruptive Era</strong><br />
-Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan yang diselenggarakan oleh Telkom University</p>
+					<h1>BTP Seminar And Expo (BTP SaE 2020)</h1>
+					<p class="lead"><strong>Towards Sustainable Science Techno Park</strong><br />
+					BTP Seminar And Expo (BTP SaE 2020) adalah Kompetisi tahunan yang diselenggarakan oleh Bandung Techno Park</p>
 				</div>
 				
 				<div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
@@ -269,19 +270,19 @@ Indonesia Cyber Security Seminar and Competition (CS2C) adalah Kompetisi tahunan
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-refresh-2"></i>
 							<h4>Seminar</h4>
-							<p>Seminar ICS2C 2018 menampilkan 4 Pembicara dari re</p>
+							<p>Seminar BTP SaE 2020 akan berfokus pada kolaborasi Pentahelix dengan Science Techno Park.</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-micro"></i>
-							<h4>Cyber Security Competition</h4>
-							<p>Cyber Competition ICS2C merupakan kompetisi keamanan jaringan dan informasi berskala nasional yang mengangkat konsep Jeopardy CTF</p>
+							<h4>Expo</h4>
+							<p>Expo BTP SaE 2020 akan menunjukan semuah produk dan layanan dari Bandung Techno Park dan penyewa sebuah karya.</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
-							<i class="pe-4x pe-7s-headphones"></i>
-							<h4>Awarding</h4>
-							<p>Pemenang dalam Cyber Competition kemudian akan masuk pada babak final yaitu hybrid Jeopardy dan Attack-Defense</p>
+							<i class="pe-4x pe-7s-rocket"></i>
+							<h4>FGD Industries</h4>
+							<p>Bandung Techno Park sebagai pusat solusi utama yang akan menghadirkan produk dan layanan serta menyesuaikan dengan kebutuhan industri yang dihadapi Industry 4.0 dan Global Challenges.</p>
 						</div>
 													
 					</div>
