@@ -212,9 +212,9 @@
 			<div class="row">
 				
 				<div class="col-lg-12 text-center">
-					<h1>BTP Seminar And Expo (BTPSAE 2020)</h1>
+					<h1>BTP Seminar And Expo (BTP SaE 2020)</h1>
 					<p class="lead"><strong>Towards Sustainable Science Techno Park</strong><br />
-					BTP Seminar And Expo (BTPSAE 2020) adalah Kompetisi tahunan yang diselenggarakan oleh Bandung Techno Park</p>
+					BTP Seminar And Expo (BTP SaE 2020) adalah Kompetisi tahunan yang diselenggarakan oleh Bandung Techno Park</p>
 				</div>
 				
 				<div class="col-lg-10 col-lg-offset-1 col-md-12 text-center">
@@ -223,13 +223,13 @@
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-refresh-2"></i>
 							<h4>Seminar</h4>
-							<p>Seminar BTPSAE 2020 akan berfokus pada kolaborasi Pentahelix dengan Science Techno Park.</p>
+							<p>Seminar BTP SaE 2020 akan berfokus pada kolaborasi Pentahelix dengan Science Techno Park.</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-micro"></i>
 							<h4>Expo</h4>
-							<p>Expo BTPSAE 2020 akan menunjukan semuah produk dan layanan dari Bandung Techno Park dan penyewa sebuah karya.</p>
+							<p>Expo BTP SaE 2020 akan menunjukan semuah produk dan layanan dari Bandung Techno Park dan penyewa sebuah karya.</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
