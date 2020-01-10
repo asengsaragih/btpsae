@@ -340,9 +340,9 @@
 			<div class="row">
 				
 				<div class="col-lg-12 text-center">
-					<h1>BTP Seminar And Expo (BTP SaE 2020)</h1>
+					<h1>BTP Seminar and Expo (BTP SaE 2020)</h1>
 					<p class="lead"><strong>Towards Sustainable Science Techno Park</strong><br />
-					BTP Seminar And Expo (BTP SaE 2020) adalah Kompetisi tahunan yang diselenggarakan oleh Bandung Techno Park
+					BTP Seminar & Expo (BTP SaE) is an annual event of Bandung Techno Park.
 					</p>
 				</div>
 				
@@ -352,33 +352,33 @@
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-refresh-2"></i>
 							<h4>Seminar</h4>
-							<p>Seminar BTP SaE 2020 akan berfokus pada kolaborasi Pentahelix dengan Science Techno Park.
+							<p>The seminar will be focusing on the mutual collaboration between Pentahelix towards sustainable science techno park.
 								<br>
-								<br><b>Time : </b>08.00 - 17.00
-								<br><b>Venue : </b>C Building, Bandung Techno Park Telkom University
-								<br><b>Participants : </b>All guest and stakeholder (Government, Industries, Communities, Media, Science Tehno Park, Academia, students of Telkom University)
+								<br><b>Time : </b>8:00 AM – 12:30 PM
+								<br><b>Venue : </b>at C Building, Bandung Techno Park Telkom University
+								<br><b>Participants : </b>All guest and stakeholder (Government, Industries, Communities, Media, Science Techno Park, Academia, students of Telkom University)
 							</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-micro"></i>
 							<h4>Expo</h4>
-							<p>Expo BTP SaE 2020 akan menunjukan semuah produk dan layanan dari Bandung Techno Park dan penyewa sebuah karya.
+							<p>At the Expo, participants will discover the product and services of Bandung Techno Park & the tenants in a showcase.
 								<br>
-								<br><b>Time : </b>08.00 - 12.00
-								<br><b>Venue : </b>C Building, Bandung Techno Park Telkom University
-								<br><b>Participants : </b>All guest and stakeholder (Government, Industries, Communities, Media, Science Tehno Park, Academia, students of Telkom University)
+								<br><b>Time : </b>8:00 AM – 5:00 PM
+								<br><b>Venue : </b>at C Building, Bandung Techno Park Telkom University
+								<br><b>Participants : </b>All guest and stakeholder (Government, Industries, Communities, Media, Science Techno Park, Academia, students of Telkom University)
 							</p>
 						</div>
 						
 						<div class="feature col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-rocket"></i>
-							<h4>FGD Industries</h4>
-							<p>Bandung Techno Park sebagai pusat solusi utama yang akan menghadirkan produk dan layanan serta menyesuaikan dengan kebutuhan industri yang dihadapi Industry 4.0 dan Global Challenges.
+							<h4>Industrial Gathering</h4>
+							<p>Bandung Techno Park as the one stop solution center for industries will facilitates industries, government, and media to share their problem and the industry needs facing the industry 4.0 and global challenges.
 								<br>
-								<br><b>Time : </b>13.00 - 17.00
-								<br><b>Venue : </b>C Building, Bandung Techno Park Telkom University 
-								<br><b>Participants : </b>Industries and government
+								<br><b>Time : </b>1:30 PM – 5:00 PM
+								<br><b>Venue : </b>at C Building, Bandung Techno Park Telkom University 
+								<br><b>Participants : </b>Industries, Government, Academia of Telkom University (researchers and lecturers)
 							</p>
 						</div>
 													
