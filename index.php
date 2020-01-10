@@ -251,6 +251,43 @@
 			</div>
 		</div>
 	</section>
+
+	<!-- OVERVIEW -->
+	<section id="register">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<h2 class="uppercase text-center">OVERVIEW</h2>
+					<p class="lead text-center"><strong>BTP Seminar And Expo (BTP SaE 2020)</strong><br /><br /></p>
+				</div>
+
+				<div class="col-lg-6 col-md-6 col-sm-6">
+					<center><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp-white.png" alt="hotel"></center><br>
+				</div>
+
+				<div class="col-lg-6 col-md-6 col-sm-6">
+					<!-- <h2 class="uppercase">lokasi</h2>
+					<p class="lead">BTPSAE bertempat di Bandung Techno Park<br />Gedung C, Bandung Techno Park</p> -->
+					<div class="col-lg-12">
+						<p class="text-justify">Bandung Techno Park is Indonesian Sains Techno Park located in Telkom Education Area in Bandung with the vision to become a center of innovation and entrepreneurship in the field of ICT, engineering, and energy to grow the local economy. BTP was born on January 19, 2010.</p class="text-justify">
+					</div>
+	
+					<div class="col-lg-12">
+						<p class="text-justify">Science Techno Park (STP) is a professionally managed area with the vision to improving the prosperity and economy of the community. STP has three main roles, that's are carrying out research and development, growing and developing technology-based startups (spin-off), and growing industrial clusters or attracting industries into the region, so that the innovation ecosystem can really be realized.</p>
+					</div>
+	
+					<div class="col-lg-12">
+						<p class="text-justify">BTP Seminar & Expo (BTP SaE) is an annual event of Bandung Techno Park. In line with the mission of BTP to increase collaboration between academia, business/industry, government, and society, this event supposed to become the forum to unite pentahelix for mutual collaboration towards innovative ecosystem to grow the local economy.</p class="text-justify">
+					</div>
+	
+					<div class="col-lg-12">
+						<p class="text-justify">BTP SaE will be held at the 10th anniversary of Bandung Techno Park on January 20,2020.</p class="text-justify">
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</section>
 	
 	<!-- INFO -->
 	<section id="info">
@@ -302,7 +339,6 @@
 													
 					</div>
 				</div>
-				
 			</div>
 		</div>
 	</section>
