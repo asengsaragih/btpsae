@@ -446,7 +446,7 @@
 					<!-- SCHEDULE TAB -->
 					<ul id="myTab" class="nav nav-tabs" role="tablist">
 						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Seminar</a></li>
-						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">FGD Industries</a></li>
+						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">Industrial Gathering</a></li>
 						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">Expo</a></li>
 					</ul>
 					
@@ -530,7 +530,7 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.05 - 09.15</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.05 - 09.10</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
 													<a href="javascript:;">Welcoming from Director of Bandung Techno Park</a>
@@ -547,10 +547,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.15 - 09.45</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.10 - 09.20</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Keynote Speaker</a>
+													<a href="javascript:;">Welcoming from Rector of Telkom Univesity</a>
 												</h4>
 											</div>
 										</div>										
@@ -564,10 +564,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.45 - 10.00</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.20 - 09.45</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">MoU signing & Photo session</a>
+													<a href="javascript:;">Keynote Speaker 1 <br> <b>General Director of ILMATE Ministry of Industry</b></a>
 												</h4>
 											</div>
 										</div>										
@@ -581,10 +581,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.00 - 10.15</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">09.45 - 10.10</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Academic : Telkom University Rector <br>Topic : "<i>The Role of Academia in Supporting the Growth of Economic through Innovation</i>"</a>
+													<a href="javascript:;">Keynote Speaker 2 <br> <b>Director of Higher Education of Foundation</b></a>
 												</h4>
 											</div>
 										</div>										
@@ -598,10 +598,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.15 - 10.30</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.10 - 10.20</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Bussiness : Telkom Group <br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
+													<a href="javascript:;">MoU Singing (AMA Tel-U)</a>
 												</h4>
 											</div>
 										</div>										
@@ -615,10 +615,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.30 - 10.45</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.20 - 10.30</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Bussiness : Mr. Stephanus Widjaja, Founder of Business Indonesia Singapore Association <br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
+													<a href="javascript:;">Anniversary of Bandung Techno Park</a>
 												</h4>
 											</div>
 										</div>										
@@ -632,10 +632,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.45 - 11.00</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.30 - 10.45</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Community : Mr. Nugroho Gito Prasodjo (VP FAST & CTO Accenture)<br>Topic : "<i>The Opportunities for Collaboration between Comumunities & STP</i>"</a>
+													<a href="javascript:;">Academic : Dr. Ir. Rina Pudji Astuti, M.T. (Vice Rector IV Telkom University)<br>Topic : "<i>The Role of Academia in Supporting the Growth of Economic through Innovation</i>"</a>
 												</h4>
 											</div>
 										</div>										
@@ -649,10 +649,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.00 - 11.15</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">10.45 - 11.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Government : Ministry of Research & Technology<br>Topic : "<i>The Role of Government in Supporting the Growth of STP</i>"</a>
+													<a href="javascript:;">Business : CEO Amoeba<br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
 												</h4>
 											</div>
 										</div>										
@@ -666,10 +666,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.15 - 11.30</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.00 - 11.15</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Media : Kumparan/CNN *<br>Topic : "<i>The Role of Media in Supporting the Growth of Economic through Innovation</i>"</a>
+													<a href="javascript:;">Business : Mr. Stephanus Widjaja, Founder of Business Indonesia Singapore Association (Bisakita.com)<br>Topic : "<i>The Needed Competencies Facing Global Challenges</i>"</a>
 												</h4>
 											</div>
 										</div>										
@@ -683,10 +683,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.30 - 11.45</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.15 - 11.30</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Open discussion & Closing by moderator</a>
+													<a href="javascript:;">Community : Mr. Nugroho Gito Prasodjo (VP FAST)<br>Topic : "<i>The Opportunities for Collaboration between Communities & STP</i>"</a>
 												</h4>
 											</div>
 										</div>										
@@ -700,10 +700,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.45 - 11.55</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.30 - 11.45</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Photo session</a>
+													<a href="javascript:;">Media : Mr. Arief Adi Wibowo (Head of Business Strategic CNN Indonesia)<br>Topic : "<i>The Role of Media in Supporting the Growth of Economic through Innovation</i>"</a>
 												</h4>
 											</div>
 										</div>										
@@ -717,10 +717,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.55 - 12.00</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">11.45 - 12.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Closing MC</a>
+													<a href="javascript:;">Government : Ministry of Industry<br>Topic : "<i>The Role of Government in Supporting the Growth of STP</i>"</a>
 												</h4>
 											</div>
 										</div>										
@@ -734,19 +734,71 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.00 - 13.00</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.00 - 12.20</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Lunch & Break</a>
+													<a href="javascript:;">Open discussion & Closing by moderator</a>
 												</h4>
 											</div>
 										</div>										
 									</div>
 									
 								</div>
+						
+						<!-- PROGRAM 18-->
+						<div class="panel panel-default">
+								
+								<!-- Program Heading -->
+								<div class="panel-heading" role="tab" id="heading1">									   
+									<div class="row">
+										<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.20 - 12.25</p></div>											
+										<div class="col-lg-9 col-md-9 col-sm-8">												
+											<h4 class="panel-title">
+												<a href="javascript:;">Photo session</a>
+											</h4>
+										</div>
+									</div>										
+								</div>
+								
+							</div>
+
+					<!-- PROGRAM 19-->
+					<div class="panel panel-default">
+								
+								<!-- Program Heading -->
+								<div class="panel-heading" role="tab" id="heading1">									   
+									<div class="row">
+										<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.25 - 12.30</p></div>											
+										<div class="col-lg-9 col-md-9 col-sm-8">												
+											<h4 class="panel-title">
+												<a href="javascript:;">Closing MC</a>
+											</h4>
+										</div>
+									</div>										
+								</div>
+								
+							</div>
+
+					<!-- PROGRAM 20-->
+					<div class="panel panel-default">
+								
+								<!-- Program Heading -->
+								<div class="panel-heading" role="tab" id="heading1">									   
+									<div class="row">
+										<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">12.30 - 13.30</p></div>											
+										<div class="col-lg-9 col-md-9 col-sm-8">												
+											<h4 class="panel-title">
+												<a href="javascript:;">Lunch & Break</a>
+											</h4>
+										</div>
+									</div>										
+								</div>
+								
+							</div>
+		
 							</div>
 						</div>
-						
+
 						<!-- DAY 2 -->
 						<div role="tabpanel" class="tab-pane fade in" id="day2" aria-labelledby="day2-tab">
 							<div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
@@ -756,7 +808,7 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">13.00 - 14.00</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">13.30 - 14.15</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
 													<a href="javascript:;">Expo Tour</a>
@@ -773,10 +825,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.00 - 14.30</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.15 - 14.45</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">BTP Product & Services</a>
+													<a href="javascript:;">Sharing by Industry (Telkom Group & United Tractor)</a>
 												</h4>
 											</div>
 										</div>										
@@ -790,10 +842,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.30 - 15.30</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">14.45 - 15.00</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Industry needs</a>
+													<a href="javascript:;">Sharing session by Government (Representative of Bandung City)</a>
 												</h4>
 											</div>
 										</div>										
@@ -807,10 +859,10 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">15.30 - 16.30</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">15.00 - 15.15</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Discussion</a>
+													<a href="javascript:;">Sharing session by Media (Kumparan.com)													</a>
 												</h4>
 											</div>
 										</div>										
@@ -824,10 +876,27 @@
 									<!-- Program Heading -->
 									<div class="panel-heading" role="tab" id="heading1">									   
 										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">16.30 - 17.00</p></div>											
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">15.15 - 15.45</p></div>											
 											<div class="col-lg-9 col-md-9 col-sm-8">												
 												<h4 class="panel-title">
-													<a href="javascript:;">Pitching (tentative)</a>
+													<a href="javascript:;">Discussion</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+
+								<!-- PROGRAM 6-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">15.45 - 16.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Conclution & Closing</a>
 												</h4>
 											</div>
 										</div>										
