@@ -85,7 +85,6 @@
 			<li><a data-toggle="elementscroll" href="#speakers">SPEAKERS</a></li>
 			<li><a data-toggle="elementscroll" href="#program">PROGRAM</a></li>
 			<li><a data-toggle="elementscroll" href="#venue">VENUE</a></li>
-			<li><a data-toggle="elementscroll" href="#register">PRIZE POOL</a></li>
 			<li><a data-toggle="elementscroll" href="#sponsors">ORGANIZED</a></li>
 			<li><a data-toggle="elementscroll" href="#footer">CONTACT</a></li>
 		  </ul>
@@ -913,6 +912,10 @@
 						
 						<div class="sponsor">
 							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 4.jpg" alt="">
+						</div>
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/bisa-logo.png" alt="">
 						</div>
 						
 						<div class="sponsor">
