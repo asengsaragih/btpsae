@@ -76,11 +76,7 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
-<<<<<<< HEAD
-		  <a href="index.html"><img src="<?= $baseurl ?>/assets/web/img/logo-sae.png" alt="logo"></a>
-=======
 		  <a href="index.html"><img src="<?= $baseurl ?>/assets/web/img/logo-sae-white.png" alt="logo"></a>
->>>>>>> 93a716f9c5b29a8bf7d7ed5b4302ede405ac2586
 		</div>
 
 		<div class="collapse navbar-collapse" id="nav">
