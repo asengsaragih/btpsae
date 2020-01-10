@@ -394,9 +394,9 @@
 			<div class="row">
 				
 				<div class="col-lg-12">
-					<h2 class="uppercase"><center>BTP Seminar And Expo (BTPSAE 2020)</center></h2>
+					<h2 class="uppercase"><center>BTP Seminar And Expo (BTP SAE 2020)</center></h2>
 					<h3 class="uppercase"><center>Topics : Towards Sustainable Science Techno Park</center></h3>
-					<p class="lead">Seminar dan Expo BTP SAE 2020 menampilkan 6 Pembicara Hebat pada bidang Akademik, Bisnis, Komunitas, Pemerintah dan Media</p>
+					<p class="lead">Keynote Speaker : Ministry of Industry & Director Higher Education YPT</p>
 				</div> 
 				
 				<ul id="list-speaker" class="list-unstyled"> 
@@ -405,15 +405,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/adiwijaya1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/rektoriv1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/adiwijaya1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/rektor1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Prof. Adiwijaya</h4>
-								<p class="company">Rektor Universitas Telkom</p>
+								<h4>Dr. Ir. Rina Pudji Astuti, M.T.</h4>
+								<p><b>Telkom University Vice Rector IV</b></p>
+								<p class="company">"The Role of Academia in Supporting the Growth of Economic through Innovation“</p>
 							</div>   
 						</div>
 					</li>
@@ -429,8 +430,9 @@
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Stephanus Widjaja</h4>
-								<p class="company">Pendiri Asosiasi Bisnis Indonesia Singapura (BisaKita.com) & Telkom Indonesia</p>
+								<h4>Mr. Stephanus Widjaja</h4>
+								<p><b>Founder of Business Indonesia Singapore Association (BisaKita.com)</b></p>
+								<p class="company">"The Needed Competencies Facing Global Challenges"</p>
 							</div>   
 						</div>
 					</li>
@@ -439,15 +441,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/telkom1.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fauzan1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/telkom1.jpg" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fauzan1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Telkom Group</h4>
-								<p class="company">Telkom Group</p>
+								<h4>Mr. Fauzan Feisal, S.Pi, MIB</h4>
+								<p><b>CEO Amoeba Telkom</b></p>
+								<p class="company">"The Needed Competencies Facing Global Challenges"</p>
 							</div>   
 						</div>
 					</li>
@@ -462,8 +465,9 @@
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Nugroho Gito Prasodjo</h4>
-								<p class="company">Wakil Presiden dari Forum Alumni Universitas Telkom(FAST)</p>
+								<h4>Mr. Nugroho Gito Prasodjo</h4>
+								<p><b>Vice President of Telkom University Alumni Forum (FAST)</b></p>
+								<p class="company">"The Opportunities for Collaboration between Communities & STP"</p>
 							</div>   
 						</div>
 					</li>
@@ -472,15 +476,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/ristek1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/industri1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/ristek1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/industri1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Kementrian Riset & Teknologi</h4>
-								<p class="company">Kementrian Riset & Teknologi</p>
+								<h4>Ministry of Industry</h4>
+								<p><b>Ministry of Industry</b></p>
+								<p class="company">"The Role of Government in Supporting the Growth of STP"</p>
 							</div>   
 						</div>
 					</li>
@@ -489,15 +494,17 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/noavatar1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/arief1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/noavatar1.png.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/arief1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Kumparan/CNN</h4>
-								<p class="company">Kumparan/CNN</p>
+								<h4>Mr. Arief Adi Wibowo</h4>
+								<p><b>Head of Business Strategic CNN Indonesia</b></p>
+								<p class="company">"The Role of Media in Supporting the Growth of Economic through Innovation"</p>
+							
 							</div>   
 						</div>
 					</li>
