@@ -303,11 +303,11 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<h2 class="uppercase text-center">OVERVIEW</h2>
-					<p class="lead text-center"><strong>BTP Seminar And Expo (BTP SaE 2020)</strong><br /><br /></p>
+					<p class="lead text-center"><strong>BTP Seminar and Expo (BTP SaE 2020)</strong><br /><br /></p>
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-6">
-					<center><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp-white.png" alt="hotel"></center><br>
+					<center><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-sae.png" alt="hotel"></center><br>
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-6">
@@ -1033,18 +1033,18 @@
 					<div class="row">
 						
 						<div class="col-lg-8 col-md-8 col-sm-8">
-							<h2 class="uppercase">lokasi</h2>
-							<p class="lead">BTPSAE bertempat di Bandung Techno Park<br />Gedung C, Bandung Techno Park</p>
+							<h2 class="uppercase">Venue</h2>
+							<p class="lead">Bandung Techno Park Seminar and Expo <br />at C Building, Bandung Techno Park</p>
 							<h4>Bandung Techno Park</h4>
 							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp-white.png" alt="hotel">
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-4">
 							<i class="pe-4x pe-7s-map-2"></i>
-							<h4 class="uppercase">alamat</h4>
-							<p>Jl. Telekomunikasi Terusan Buah Batu, 40257 , Bandung , Indonesia<br />+62 (22) 7564 108<br />1.5 km from Buahbatu Tol Gateway</p>
+							<h4 class="uppercase">Address</h4>
+							<p>Jl. Telekomunikasi Terusan Buah Batu, 40257 , Bandung , Indonesia<br /> (022) 8888 4200<br />1.5 km from Buahbatu Tol Gateway</p>
 							
-							<a class="button button-xsmall button-line-light" href="https://www.telkomuniversity.ac.id">more information</a>
+							<a class="button button-xsmall button-line-light" href="https://www.telkomuniversity.ac.id">More information</a>
 						</div>
 						
 					</div>
