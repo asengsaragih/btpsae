@@ -529,7 +529,7 @@
 				<div class="col-lg-12">
 				
 					<h2 class="uppercase">SCHEDULE</h2>
-					<p class="lead">...</p>
+					<p class="lead">Bandung Techno Park Seminar and Expo (BTPSaE 2020).</p>
 					
 					<!-- SCHEDULE TAB -->
 					<ul id="myTab" class="nav nav-tabs" role="tablist">
