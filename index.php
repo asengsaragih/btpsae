@@ -40,7 +40,7 @@
 	<link rel="stylesheet" href="<?= $baseurl ?>/assets/web/css/main.css">
 	
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="<?= $baseurl ?>/assets/web/img/favicon.ico">
+	<link rel="shortcut icon" href="<?= $baseurl ?>/assets/web/img/btpsae.ico">
 	
 	<style>
 	#download h2::after {
@@ -81,9 +81,10 @@
 
 		<div class="collapse navbar-collapse" id="nav">
 		  <ul class="nav navbar-nav navbar-right uppercase">
-			<li><a data-toggle="elementscroll" href="#info">INFO</a></li>
+		  	<li><a data-toggle="elementscroll" href="#register">OVERVIEW</a></li>
+			<li><a data-toggle="elementscroll" href="#info">ACTIVITY</a></li>
 			<li><a data-toggle="elementscroll" href="#speakers">SPEAKERS</a></li>
-			<li><a data-toggle="elementscroll" href="#program">PROGRAM</a></li>
+			<li><a data-toggle="elementscroll" href="#program">SCHEDULE</a></li>
 			<li><a data-toggle="elementscroll" href="#venue">VENUE</a></li>
 			<li><a data-toggle="elementscroll" href="#sponsors">ORGANIZED</a></li>
 			<li><a data-toggle="elementscroll" href="#footer">CONTACT</a></li>
@@ -141,7 +142,7 @@
 					</div>	
 			
 				<!-- SLIDE 2 -->
-				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
+				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_2.jpg"  data-saveperformance="off"  data-title="Slide">
 					<!-- MAIN IMAGE -->
 					<img src="<?= $baseurl ?>/assets/web/img/slider/slide1ori.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
@@ -161,7 +162,7 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Seminar Teknologi
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Seminar Technology
 			
 					</div>
 			
@@ -180,12 +181,12 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Focusing on The Mutual Collaboration 
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Focusing on Networking & Mutual Collaboration 
 					</div>				
 				</li>
 
 				<!-- SLIDE 3 -->
-				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_1.jpg"  data-saveperformance="off"  data-title="Slide">
+				<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_3.jpg"  data-saveperformance="off"  data-title="Slide">
 					<!-- MAIN IMAGE -->
 					<img src="<?= $baseurl ?>/assets/web/img/slider/slide3.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
 					<!-- LAYERS -->
@@ -205,7 +206,7 @@
 						data-endelementdelay="0.1"
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
-						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Expo Inovasi Produk
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Expo Innovation Product
 			
 					</div>
 			
@@ -225,6 +226,50 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Product and services of Bandung Techno Park <br>& the tenants in showcase
+					</div>				
+				</li>
+
+					<!-- SLIDE 4 -->
+					<li data-transition="slidevertical" data-slotamount="1" data-masterspeed="1000" data-thumb="<?= $baseurl ?>/assets/web/img/slider/slide_thumb_4.jpg"  data-saveperformance="off"  data-title="Slide">
+					<!-- MAIN IMAGE -->
+					<img src="<?= $baseurl ?>/assets/web/img/slider/slide4.jpg"  alt="fullslide1"  data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+					<!-- LAYERS -->
+			
+					<!-- LAYER NR. 1 -->
+					<div class="tp-caption light_heavy_70_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="-70"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="800"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">Industrial Gathering
+			
+					</div>
+			
+					<!-- LAYER NR. 2 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="10"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Sharing Session Discussing about <br>Matching with Industry Needs
 					</div>				
 				</li>
 	
@@ -927,7 +972,19 @@
 						</div>
 						
 						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 4.jpg" alt="">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/kementrian-sponsors-logo.png" alt="">
+						</div>
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/amoeba-sponsors-logo.png" alt="">
+						</div>
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/kumparan-sponsors-logo.png" alt="">
+						</div>
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/cnn-sponsors-logo.png" alt="">
 						</div>
 
 						<div class="sponsor">
@@ -935,15 +992,11 @@
 						</div>
 						
 						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-telkom.png" alt="">
-						</div>
-						
-						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-dds.png" alt="">
-						</div>
-						
-						<div class="sponsor">
 							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-ypt.png" alt="">
+						</div>
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 4.jpg" alt="">
 						</div>
 						
 					</div>
