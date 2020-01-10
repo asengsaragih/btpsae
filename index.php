@@ -76,7 +76,11 @@
 			<span class="icon-bar"></span>
 			<span class="icon-bar"></span>
 		  </button>
+<<<<<<< HEAD
 		  <a href="index.html"><img src="<?= $baseurl ?>/assets/web/img/logo-sae.png" alt="logo"></a>
+=======
+		  <a href="index.html"><img src="<?= $baseurl ?>/assets/web/img/logo-sae-white.png" alt="logo"></a>
+>>>>>>> 93a716f9c5b29a8bf7d7ed5b4302ede405ac2586
 		</div>
 
 		<div class="collapse navbar-collapse" id="nav">
@@ -300,18 +304,18 @@
 				<div class="col-lg-12">
 					<h2 class="uppercase"><center>BTP Seminar And Expo (BTPSAE 2020)</center></h2>
 					<h3 class="uppercase"><center>Topics : Towards Sustainable Science Techno Park</center></h3>
-					<p class="lead">Seminar dan Expo BTP SAE 2020 menampilkan 5 Pembicara Hebat pada bidang Akademik, Bisnis, Komunitas, Pemerintah dan Media</p>
+					<p class="lead">Seminar dan Expo BTP SAE 2020 menampilkan 6 Pembicara Hebat pada bidang Akademik, Bisnis, Komunitas, Pemerintah dan Media</p>
 				</div> 
 				
 				<ul id="list-speaker" class="list-unstyled"> 
 					
 					<!-- SPEAKER 1 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/mochamad-ashari.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/adiwijaya1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/adiwijaya1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
@@ -323,12 +327,12 @@
 					</li>
 					
 					<!-- SPEAKER 2 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/bssn-mayjen-djokosetiadi.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/stephanus1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/stephanus1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
@@ -339,92 +343,80 @@
 						</div>
 					</li>
 					
-					<!-- SPEAKER 3 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<!-- SPEAKER 6 -->	
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/agus-barnas.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/telkom1.jpg" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/telkom1.jpg" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>No Name</h4>
+								<h4>Telkom Group</h4>
+								<p class="company">Telkom Group</p>
+							</div>   
+						</div>
+					</li>
+					<!-- SPEAKER 3 -->	
+					<li class="col-lg-2 col-md-2 col-sm-4">
+						<div class="speaker">
+							<figure class="effect-ming">
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fast1.png" alt=""/>
+								<figcaption>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fast1.png" alt=""></a></span>
+								</figcaption>			
+							</figure>
+							
+							<div class="caption text-center">
+								<h4>Nugroho Gito Prasodjo</h4>
 								<p class="company">Wakil Presiden dari Forum Alumni Universitas Telkom(FAST)</p>
 							</div>   
 						</div>
 					</li>
 					
 					<!-- SPEAKER 4 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/ahmad-m-ramli.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/ristek1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/ristek1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Bambang Brodjonegoro</h4>
+								<h4>Kementrian Riset & Teknologi</h4>
 								<p class="company">Kementrian Riset & Teknologi</p>
 							</div>   
 						</div>
 					</li>
 					
 					<!-- SPEAKER 5 -->	
-					<li class="col-lg-3 col-md-3 col-sm-4">
+					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/foto-profil-pak-edi-witjara.jpg" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/noavatar1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/plus.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/noavatar1.png.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>No Name</h4>
+								<h4>Kumparan/CNN</h4>
 								<p class="company">Kumparan/CNN</p>
 							</div>   
 						</div>
 					</li>
+
+										
 				
 				</ul>
 				
-				<div class="col-lg-12 col-md-12 col-sm-12 text-center">
+				<!-- <div class="col-lg-12 col-md-12 col-sm-12 text-center">
 					<a href="#" class="button button-small button-line-dark">Daftar Peserta Seminar</a>
-				</div>
-				
-			</div>
-		</div>
-	</section>
-	
-	<!-- DOWNLOAD -->
-	<section id="download">
-		<div class="container">
-			<div class="row">
-			
-				<div class="col-lg-12">
-					<div class="row">
-					
-						<div class="col-lg-4 col-md-4 col-sm-3">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/ctf-hacking-competition-ics2c-2018.png" alt="">
-						</div>
-						
-						<div class="col-lg-8 col-md-8 col-sm-9">
-							<h2 class="uppercase">Cyber Security Competition</h2>
-							<h4><strong>Demonstrate your hacking expertise in finding vulnerabilities within various problems!</strong></h4>
-							<br>
-							<p align="justify">Cyber Security Competition <strong>ICS2C 2018</strong> merupakan kompetisi keamanan jaringan dan informasi berskala nasional yang mengangkat konsep Capture The Flag pada babak penyisihan. Kompetisi ini terbuka untuk umum dalam bentuk tim yang terdiri dari 1 - 3 orang.</p>
-							<p align="justify">15 Tim dengan nilai tertinggi pada babak penyisihan berhak mengikuti babak grand final yang akan di selenggarakan di kampus Universitas Telkom.</p>
-							<br>
-							<a class="button button-small button-line-dark" href="#">Download Rulebook</a> 
-							<a class="button button-small button-line-dark" href="#">Register Competition</a>
-						</div>
-						
-					</div>
-				</div>
+				</div> -->
 				
 			</div>
 		</div>
@@ -442,9 +434,9 @@
 					
 					<!-- SCHEDULE TAB -->
 					<ul id="myTab" class="nav nav-tabs" role="tablist">
-						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Expo</a></li>
-						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">Seminar</a></li>
-						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">FGD Industries</a></li>
+						<li role="presentation" class="active"><a href="#day1" id="day1-tab" role="tab" data-toggle="tab" aria-controls="day1" aria-expanded="true">Seminar</a></li>
+						<li role="presentation" class=""><a href="#day2" role="tab" id="day2-tab" data-toggle="tab" aria-controls="day2" aria-expanded="false">FGD Industries</a></li>
+						<li role="presentation" class=""><a href="#day3" role="tab" id="day3-tab" data-toggle="tab" aria-controls="day3" aria-expanded="false">Expo</a></li>
 					</ul>
 					
 					<!-- CONTENT -->    
@@ -453,32 +445,6 @@
 						<!-- DAY 1 -->
 						<div role="tabpanel" class="tab-pane fade active in" id="day1" aria-labelledby="day1-tab">
 							<div class="panel-group" id="accordion1" role="tablist" aria-multiselectable="true">
-
-								<!-- PROGRAM 1-->
-								<div class="panel panel-default">
-								
-									<!-- Program Heading -->
-									<div class="panel-heading" role="tab" id="heading1">									   
-										<div class="row">
-											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.00 - 17.00</p></div>											
-											<div class="col-lg-9 col-md-9 col-sm-8">												
-												<h4 class="panel-title">
-													<a href="javascript:;">Expo</a>
-												</h4>
-											</div>
-										</div>										
-									</div>
-									
-								</div>
-								
-								
-							
-							</div>
-						</div>
-						
-						<!-- DAY 2 -->
-						<div role="tabpanel" class="tab-pane fade in" id="day2" aria-labelledby="day2-tab">
-							<div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
 								<!-- PROGRAM 1-->
 								<div class="panel panel-default">
 								
@@ -770,9 +736,9 @@
 							</div>
 						</div>
 						
-						<!-- DAY 3 -->
-						<div role="tabpanel" class="tab-pane fade in" id="day3" aria-labelledby="day3-tab">
-							<div class="panel-group" id="accordion3" role="tablist" aria-multiselectable="true">
+						<!-- DAY 2 -->
+						<div role="tabpanel" class="tab-pane fade in" id="day2" aria-labelledby="day2-tab">
+							<div class="panel-group" id="accordion2" role="tablist" aria-multiselectable="true">
 								<!-- PROGRAM 1-->
 								<div class="panel panel-default">
 								
@@ -859,6 +825,28 @@
 								</div>
 							</div>
 						</div>
+						
+						<!-- DAY 3 -->
+						<div role="tabpanel" class="tab-pane fade in" id="day3" aria-labelledby="day3-tab">
+							<div class="panel-group" id="accordion3" role="tablist" aria-multiselectable="true">
+								<!-- PROGRAM 1-->
+								<div class="panel panel-default">
+								
+									<!-- Program Heading -->
+									<div class="panel-heading" role="tab" id="heading1">									   
+										<div class="row">
+											<div class="col-lg-2 col-md-2 col-sm-4"><p class="date">08.00 - 17.00</p></div>											
+											<div class="col-lg-9 col-md-9 col-sm-8">												
+												<h4 class="panel-title">
+													<a href="javascript:;">Expo</a>
+												</h4>
+											</div>
+										</div>										
+									</div>
+									
+								</div>
+							</div>
+						</div>
 					
 					</div>
 					
@@ -893,233 +881,6 @@
 						
 					</div>
 				</div>
-			</div>
-		</div>
-		
-		<div class="container">
-			<div class="row">
-				
-				<div class="col-lg-3 col-md-3">
-					<h3>Accomodation  Alternatives</h3>
-					<p>...</p>
-				</div>
-				
-				<div class="col-lg-9 col-md-9">
-					
-					<!-- hotel carousel -->
-					<div id="hotel-carousel">
-						<div class="item">
-							<div class="hotel">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/accomodation/asrama-universitas-telkom.jpg" alt="">
-								
-								<div class="caption">
-									<h5 class="uppercase">Asrama Universitas Telkom</h5>
-									<span class="rating">
-									  <i class="fa fa-star"></i>
-									  <i class="fa fa-star"></i>
-									  <i class="fa fa-star"></i>
-									</span>
-									
-									<p class="small">Asrama Universitas Telkom juga disewakan untuk finalis cyber competition.</p>
-									<a class="button button-xsmall button-line-dark" href="#">details</a>
-								</div>
-								
-							</div>
-						</div>
-						
-						<div class="item">
-							<div class="hotel">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/accomodation/hotel-asrilia-bandung.jpg" alt="">
-								
-								<div class="caption">
-									<h5 class="uppercase">Hotel Asrilia Bandung</h5>
-									<span class="rating">
-									  <i class="fa fa-star"></i>
-									  <i class="fa fa-star"></i>
-									  <i class="fa fa-star"></i>
-									</span>
-									
-									<p class="small">Hotel Asrilia berlokasi di jalan buahbatu sekitar 5km dari kampus.</p>
-									<a class="button button-xsmall button-line-dark" href="#">details</a>
-								</div>
-								
-							</div>
-						</div>
-						
-						<div class="item">
-							<div class="hotel">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/accomodation/ojol.jpg" alt="">
-								
-								<div class="caption">
-									<h5 class="uppercase">Ojek Online</h5>
-									<span class="rating">
-									  <i class="fa fa-star"></i>
-									  <i class="fa fa-star"></i>
-									  <i class="fa fa-star"></i>
-									</span>
-									
-									<p class="small">Ojek online dapat menjadi salah satu alternatif sarana transportasi.</p>
-									<a class="button button-xsmall button-line-dark" href="#">details</a>
-								</div>
-								
-							</div>
-						</div>
-					</div>
-					
-				</div>
-				
-			</div>
-		</div>
-		
-	</section>
-	
-	<!-- FUNFACTS -->
-	<section id="funfacts">
-		<div class="funfacts-inner">
-			<div class="container">
-				<div class="row">
-					
-					<h2 class="hidden">funfacts</h2>
-					
-					<div class="col-lg-10 col-lg-offset-1">
-						<div id="funfacts-carousel">
-							
-							<div class="item">
-								<i class="pe pe-4x pe-7s-world"></i>
-								<div class="desc">
-									<p class="number">72.5</p>
-									<p class="description">Million total prize</p>
-								</div>
-							</div>
-							
-							<div class="item">
-								<i class="pe pe-4x pe-7s-display2"></i>
-								<div class="desc">
-									<p class="number">5</p>
-									<p class="description">Team Winners</p>
-								</div>
-							</div>
-							
-							<div class="item">
-								<i class="pe pe-4x pe-7s-micro"></i>
-								<div class="desc">
-									<p class="number">5</p>
-									<p class="description">speakers</p>
-								</div>
-							</div>
-							
-							<div class="item">
-								<i class="pe pe-va pe-4x pe-7s-id"></i>
-								<div class="desc">
-									<p class="number">300</p>
-									<p class="description">seat attenders</p>
-								</div>
-							</div>
-							
-						</div>
-					</div>
-					
-				</div>
-			</div>
-		</div>
-	</section>
-	
-	<!-- REGISTER -->
-	<section id="register">
-		<div class="container">
-			<div class="row">
-			
-				<div class="col-lg-12">
-					<h2 class="uppercase text-center">PRIZE POOL</h2>
-					<p class="lead text-center">CAPTURE THE FLAG'S (CTF) PRIZE POOL</p>
-				</div>
-			
-				<div class="col-lg-12">                        
-					<!-- PRICE TABLES -->
-					<div id="price-carousel">
-						
-						<div class="price-table early-bird">
-							<div class="icon">
-								<i class="pe-5x pe-7s-wristwatch"></i> 
-							</div>
-							
-							<div class="table-header">
-								<h3>Juara I</h3>
-								<p class="price">30 jt</p>
-							</div>
-							
-							<ul class="desc list-unstyled">
-								<li>Sertifikat</li>
-							</ul>
-						</div>
-						
-						<div class="price-table standart">
-							<div class="icon">
-								<i class="pe-5x pe-7s-wristwatch"></i> 
-							</div>
-							
-							<div class="table-header">
-								<h3>Juara II</h3>
-								<p class="price">20 jt</p>
-							</div>
-							
-							<ul class="desc list-unstyled">
-								<li>Sertifikat</li>
-							</ul>
-						</div>
-						
-						<div class="price-table vip">
-							<div class="icon">
-								<i class="pe-5x pe-7s-wristwatch"></i> 
-							</div>
-							
-							<div class="table-header">
-								<h3>Juara III</h3>
-								<p class="price">10 jt</p>
-							</div>
-							
-							<ul class="desc list-unstyled">
-								<li>Sertifikat</li>
-							</ul>
-						</div>
-						
-						<div class="price-table early-bird">
-							<div class="icon">
-								<i class="pe-5x pe-7s-wristwatch"></i> 
-							</div>
-							
-							<div class="table-header">
-								<h3>Juara Harapan I</h3>
-								<p class="price">7.5 jt</p>
-							</div>
-							
-							<ul class="desc list-unstyled">
-								<li>Sertifikat</li>
-							</ul>
-						</div>
-						
-						<div class="price-table standart">
-							<div class="icon">
-								<i class="pe-5x pe-7s-wristwatch"></i> 
-							</div>
-							
-							<div class="table-header">
-								<h3>Juara Harapan II</h3>
-								<p class="price">5 jt</p>
-							</div>
-							
-							<ul class="desc list-unstyled">
-								<li>Sertifikat</li>
-							</ul>
-						</div>
-					
-					</div>
-				</div>
-				
-				<div class="col-lg-12 text-center">
-					<a class="button button-small button-line-dark html-popup" href="#">register competition now</a>
-				</div>
-				
 			</div>
 		</div>
 	</section>
