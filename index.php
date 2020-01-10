@@ -863,7 +863,7 @@
 							<h2 class="uppercase">lokasi</h2>
 							<p class="lead">BTPSAE bertempat di Bandung Techno Park<br />Gedung C, Bandung Techno Park</p>
 							<h4>Bandung Techno Park</h4>
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp.png" alt="hotel">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp-white.png" alt="hotel">
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-4">
