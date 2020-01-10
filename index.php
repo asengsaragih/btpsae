@@ -861,9 +861,9 @@
 						
 						<div class="col-lg-8 col-md-8 col-sm-8">
 							<h2 class="uppercase">lokasi</h2>
-							<p class="lead">BTPSAE bertempat di Telkom University<br />Kampus berbasis ICT, Bandung Technoplex Telkom University</p>
-							<h4>Telkom University</h4>
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-telkom-university-grey.png" alt="hotel">
+							<p class="lead">BTPSAE bertempat di Bandung Techno Park<br />Gedung C, Bandung Techno Park</p>
+							<h4>Bandung Techno Park</h4>
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp.png" alt="hotel">
 						</div>
 						
 						<div class="col-lg-4 col-md-4 col-sm-4">
