@@ -258,9 +258,9 @@
 			<div class="row">
 				
 				<div class="col-lg-12 text-center">
-					<h1>BTP Seminar And Expo (BTP SaE 2020)</h1>
+					<h1>BTP Seminar and Expo (BTP SaE 2020)</h1>
 					<p class="lead"><strong>Towards Sustainable Science Techno Park</strong><br />
-					BTP Seminar And Expo (BTP SaE 2020) adalah Kompetisi tahunan yang diselenggarakan oleh Bandung Techno Park
+					BTP Seminar & Expo (BTP SaE) is an annual event of Bandung Techno Park.
 					</p>
 				</div>
 				
