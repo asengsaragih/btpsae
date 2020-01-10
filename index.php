@@ -895,7 +895,7 @@
 						</div>
 						
 						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp.png" alt="" style="padding-bottom: 11px;">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 7.png" alt="">
 						</div>
 						
 					</div>
