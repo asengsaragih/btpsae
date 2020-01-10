@@ -896,7 +896,7 @@
 						</div>
 						
 						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-klz.png" alt="">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/logo-btp.png" alt="" style="padding-bottom: 11px;">
 						</div>
 						
 					</div>
@@ -908,15 +908,11 @@
 					<div id="sponsors-carousel2">
 						
 						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-kemenko-polhukam.png" alt="">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 3.jpg" alt="">
 						</div>
 						
 						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-kemkominfo.png" alt="">
-						</div>
-						
-						<div class="sponsor">
-							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/logo-bssn.png" alt="">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 4.jpg" alt="">
 						</div>
 						
 						<div class="sponsor">
