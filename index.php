@@ -311,8 +311,6 @@
 				</div>
 
 				<div class="col-lg-6 col-md-6 col-sm-6">
-					<!-- <h2 class="uppercase">lokasi</h2>
-					<p class="lead">BTPSAE bertempat di Bandung Techno Park<br />Gedung C, Bandung Techno Park</p> -->
 					<div class="col-lg-12">
 						<p class="text-justify">Bandung Techno Park is Indonesian Sains Techno Park located in Telkom Education Area in Bandung with the vision to become a center of innovation and entrepreneurship in the field of ICT, engineering, and energy to grow the local economy. BTP was born on January 19, 2010.</p class="text-justify">
 					</div>
@@ -512,10 +510,6 @@
 										
 				
 				</ul>
-				
-				<!-- <div class="col-lg-12 col-md-12 col-sm-12 text-center">
-					<a href="#" class="button button-small button-line-dark">Daftar Peserta Seminar</a>
-				</div> -->
 				
 			</div>
 		</div>
