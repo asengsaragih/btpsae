@@ -139,6 +139,24 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Towards Sustainable Science Techno Park
+					</div>
+
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="90"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">20 Januari 2020
 					</div>	
 			
 				<!-- SLIDE 2 -->
@@ -182,7 +200,26 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Focusing on Networking & Mutual Collaboration 
-					</div>				
+					</div>
+
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="60"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">20 Januari 2020
+					</div>	
+
 				</li>
 
 				<!-- SLIDE 3 -->
@@ -226,7 +263,26 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Product and services of Bandung Techno Park <br>& the tenants in showcase
-					</div>				
+					</div>
+
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="80"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">20 Januari 2020
+					</div>
+
 				</li>
 
 					<!-- SLIDE 4 -->
@@ -270,7 +326,26 @@
 						data-endspeed="500"
 						data-endeasing="Power4.easeIn"
 						style="z-index: 3; max-width: auto; max-height: auto; white-space: nowrap;">Sharing Session Discussing about <br>Matching with Industry Needs
-					</div>				
+					</div>
+
+					<!-- LAYER NR. 3 -->
+					<div class="tp-caption light_medium_30_shadowed lfb ltt tp-resizeme"
+						data-x="483"
+						data-y="center" data-voffset="80"
+						data-width="['auto']"
+						data-height="['auto']"
+						data-speed="600"
+						data-start="900"
+						data-easing="Power4.easeOut"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="500"
+						data-endeasing="Power4.easeIn"
+						style="z-index: 4; max-width: auto; max-height: auto; white-space: nowrap;">20 Januari 2020
+					</div>
+
 				</li>
 	
 			</ul>		
@@ -394,7 +469,7 @@
 					<h2 class="uppercase"><center>BTP Seminar And Expo (BTP SAE 2020)</center></h2>
 					<h3 class="uppercase"><center>Topics : Towards Sustainable Science Techno Park</center></h3>
 					<br /><br />
-					<p class="lead">Keynote Speaker : Ministry of Industry & Director Higher Education YPT</p>
+					<p class="lead">Keynote Speaker: Ministry of Industry & Director Higher Education YPT</p>
 				</div> 
 				
 				<ul id="list-speaker" class="list-unstyled"> 
@@ -403,16 +478,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/rektoriv1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/noavatar1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/rektor1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/noavatar1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Dr. Ir. Rina Pudji Astuti, M.T.</h4>
-								<p><b>Telkom University Vice Rector IV</b></p>
-								<p class="company">"The Role of Academia in Supporting the Growth of Economic through Innovation“</p>
+								<h4>Harjanto Pipin</h4>
+								<p><b>Director General of The Ministry of Industry</b></p>
+								<!-- <p class="company">"The Role of Academia in Supporting the Growth of Economic through Innovation“</p> -->
 							</div>   
 						</div>
 					</li>
@@ -421,97 +496,26 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/stephanus1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/dwi1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/stephanus1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/dwi1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Mr. Stephanus Widjaja</h4>
-								<p><b>Founder of Business Indonesia Singapore Association (BisaKita.com)</b></p>
-								<p class="company">"The Needed Competencies Facing Global Challenges"</p>
+								<h4>Dwi Heriyanto B</h4>
+								<p><b>Higher Education Directorate of Yayasan Pendidikan Telkom</b></p>
+								<!-- <p class="company">"The Needed Competencies Facing Global Challenges"</p> -->
 							</div>   
 						</div>
 					</li>
-					
-					<!-- SPEAKER 6 -->	
-					<li class="col-lg-2 col-md-2 col-sm-4">
-						<div class="speaker">
-							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fauzan1.png" alt=""/>
-								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fauzan1.png" alt=""></a></span>
-								</figcaption>			
-							</figure>
-							
-							<div class="caption text-center">
-								<h4>Mr. Fauzan Feisal, S.Pi, MIB</h4>
-								<p><b>CEO Amoeba Telkom</b></p>
-								<p class="company">"The Needed Competencies Facing Global Challenges"</p>
-							</div>   
-						</div>
-					</li>
-					<!-- SPEAKER 3 -->	
-					<li class="col-lg-2 col-md-2 col-sm-4">
-						<div class="speaker">
-							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fast1.png" alt=""/>
-								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fast1.png" alt=""></a></span>
-								</figcaption>			
-							</figure>
-							
-							<div class="caption text-center">
-								<h4>Mr. Nugroho Gito Prasodjo</h4>
-								<p><b>Vice President of Telkom University Alumni Forum (FAST)</b></p>
-								<p class="company">"The Opportunities for Collaboration between Communities & STP"</p>
-							</div>   
-						</div>
-					</li>
-					
-					<!-- SPEAKER 4 -->	
-					<li class="col-lg-2 col-md-2 col-sm-4">
-						<div class="speaker">
-							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/industri1.png" alt=""/>
-								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/industri1.png" alt=""></a></span>
-								</figcaption>			
-							</figure>
-							
-							<div class="caption text-center">
-								<h4>Ministry of Industry</h4>
-								<p><b>Ministry of Industry</b></p>
-								<p class="company">"The Role of Government in Supporting the Growth of STP"</p>
-							</div>   
-						</div>
-					</li>
-					
-					<!-- SPEAKER 5 -->	
-					<li class="col-lg-2 col-md-2 col-sm-4">
-						<div class="speaker">
-							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/arief1.png" alt=""/>
-								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/arief1.png" alt=""></a></span>
-								</figcaption>			
-							</figure>
-							
-							<div class="caption text-center">
-								<h4>Mr. Arief Adi Wibowo</h4>
-								<p><b>Head of Business Strategic CNN Indonesia</b></p>
-								<p class="company">"The Role of Media in Supporting the Growth of Economic through Innovation"</p>
-							
-							</div>   
-						</div>
-					</li>					
+						
 				</ul>
 			</div>
 
 			<div class="row">
 				<div class="col-lg-12">
-					<p class="lead">Keynote Speaker : Ministry of Industry & Director Higher Education YPT</p>
+					<p class="lead">Panel Speaker</p>
 				</div> 
 				
 				<ul id="list-speaker2" class="list-unstyled"> 
@@ -538,9 +542,9 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/stephanus1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/stephanus.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/stephanus1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/stephanus.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
@@ -628,7 +632,7 @@
 
 			<div class="row">
 				<div class="col-lg-12">
-					<p class="lead">Keynote Speaker : Ministry of Industry & Director Higher Education YPT</p>
+					<p class="lead">Industrial Gathering Speaker</p>
 				</div> 
 				
 				<ul id="list-speaker3" class="list-unstyled"> 
@@ -637,16 +641,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/rektoriv1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/telkom1.jpg" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/rektor1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/telkom1.jpg" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Dr. Ir. Rina Pudji Astuti, M.T.</h4>
-								<p><b>Telkom University Vice Rector IV</b></p>
-								<p class="company">"The Role of Academia in Supporting the Growth of Economic through Innovation“</p>
+								<h4>Telkom Sinergi</h4>
+								<p><b>Telkom Sinergi</b></p>
+								<!-- <p class="company">"The Needed Competencies Facing Global Challenges"</p> -->
 							</div>   
 						</div>
 					</li>
@@ -655,34 +659,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/stephanus1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/kumparan1.jpg" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/stephanus1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/kumparan1.jpg" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Mr. Stephanus Widjaja</h4>
-								<p><b>Founder of Business Indonesia Singapore Association (BisaKita.com)</b></p>
-								<p class="company">"The Needed Competencies Facing Global Challenges"</p>
-							</div>   
-						</div>
-					</li>
-					
-					<!-- SPEAKER 6 -->	
-					<li class="col-lg-2 col-md-2 col-sm-4">
-						<div class="speaker">
-							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fauzan1.png" alt=""/>
-								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fauzan1.png" alt=""></a></span>
-								</figcaption>			
-							</figure>
-							
-							<div class="caption text-center">
-								<h4>Mr. Fauzan Feisal, S.Pi, MIB</h4>
-								<p><b>CEO Amoeba Telkom</b></p>
-								<p class="company">"The Needed Competencies Facing Global Challenges"</p>
+								<h4>Kumparan</h4>
+								<p><b>Kumparan</b></p>
+								<!-- <p class="company">"The Needed Competencies Facing Global Challenges"</p> -->
 							</div>   
 						</div>
 					</li>
@@ -690,16 +676,16 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/fast1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/pemkotbdg1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/fast1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/pemkotbdg1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Mr. Nugroho Gito Prasodjo</h4>
-								<p><b>Vice President of Telkom University Alumni Forum (FAST)</b></p>
-								<p class="company">"The Opportunities for Collaboration between Communities & STP"</p>
+								<h4>Pemerintah Kota Bandung</h4>
+								<p><b>Pemerintah Kota Bandung</b></p>
+								<!-- <p class="company">"The Opportunities for Collaboration between Communities & STP"</p> -->
 							</div>   
 						</div>
 					</li>
@@ -708,38 +694,21 @@
 					<li class="col-lg-2 col-md-2 col-sm-4">
 						<div class="speaker">
 							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/industri1.png" alt=""/>
+								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/ut1.png" alt=""/>
 								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/industri1.png" alt=""></a></span>
+									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/ut1.png" alt=""></a></span>
 								</figcaption>			
 							</figure>
 							
 							<div class="caption text-center">
-								<h4>Ministry of Industry</h4>
-								<p><b>Ministry of Industry</b></p>
-								<p class="company">"The Role of Government in Supporting the Growth of STP"</p>
+								<h4>United Tractors</h4>
+								<p><b>United Tractors</b></p>
+								<!-- <p class="company">"The Role of Government in Supporting the Growth of STP"</p> -->
 							</div>   
 						</div>
 					</li>
 					
-					<!-- SPEAKER 5 -->	
-					<li class="col-lg-2 col-md-2 col-sm-4">
-						<div class="speaker">
-							<figure class="effect-ming">
-								<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/speakers/arief1.png" alt=""/>
-								<figcaption>
-									<span><a class="html-popup" href="speaker-detail.html"><img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/arief1.png" alt=""></a></span>
-								</figcaption>			
-							</figure>
-							
-							<div class="caption text-center">
-								<h4>Mr. Arief Adi Wibowo</h4>
-								<p><b>Head of Business Strategic CNN Indonesia</b></p>
-								<p class="company">"The Role of Media in Supporting the Growth of Economic through Innovation"</p>
-							
-							</div>   
-						</div>
-					</li>					
+						
 				</ul>
 			</div>
 		</div>
@@ -1302,7 +1271,11 @@
 					<p class="lead">Supported By:</p>
 					
 					<div id="sponsors-carousel2">
-						
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/pemkotbandung-sponsors-logo.png" alt="">
+						</div>
+
 						<div class="sponsor">
 							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/Group 3.jpg" alt="">
 						</div>
@@ -1321,6 +1294,10 @@
 
 						<div class="sponsor">
 							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/cnn-sponsors-logo.png" alt="">
+						</div>
+
+						<div class="sponsor">
+							<img class="img-responsive" src="<?= $baseurl ?>/assets/web/img/sponsorship/unitedreactor-sponsors-logo.png" alt="">
 						</div>
 
 						<div class="sponsor">
